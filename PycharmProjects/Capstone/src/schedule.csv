@@ -1,0 +1,105 @@
+Quarter-ID,QUARTER,YEAR,Course UID,CLASS,TITLE,UNITS,DATES,TIMES,PROGRAM,WEEKS,INSTRUCTOR,Comments
+4,SUMMER,2021,,OMIS 3391,Accelerating Innovation,4,MW,7:35pm-9:10pm,MBA,,,
+3,SPRING 2021,,,OMIS 3250,"Analysis, Design, and Management of Enterprise Platforms",2,TR,5:45pm-7:20pm,MBA,1-5,,
+3,SPRING 2021,,,OMIS 3250,"Analysis, Design, and Management of Enterprise Platforms",2,TR,7:35pm-9:10pm,MBA,1-5,,
+3,SPRING 2021,,,OMIS 3250,"Analysis, Design, and Management of Enterprise Platforms",2,MW,7:35pm-9:10pm,MBA,1-5,,
+2,WINTER 2021,,,OMIS 3202,Analytical Decision Making,2,TR,5:45pm-7:20pm,MBA,6-10,,course name corrected by Andy
+2,WINTER 2021,,,OMIS 3202,Analytical Decision Making,2,TR,7:35pm-9:10pm,MBA,6-10,,course name corrected by Andy
+2,WINTER 2021,,,OMIS 3202,Analytical Decision Making,2,MW,7:35pm-9:10pm,MBA,6-10,,course name corrected by Andy
+4,SUMMER 2021,,,OMIS 3202,Analytical Decision Making,2,MW,7:35pm-9:10pm,MBA,6-10,,course name corrected by Andy
+1,FALL 2020,,,OMIS 3202,Analytical Decision Making,2,,ONLINE,OMBA,6-10,,course name corrected by Andy
+2,WINTER 2021,,,OMIS 3202,Analytical Decision Making,2,,ONLINE,OMBA,6-10,,course name corrected by Andy
+3,SPRING 2021,,,OMIS 3202,Analytical Decision Making,2,,ONLINE,OMBA,,,course name corrected by Andy
+4,SUMMER 2021,,,OMIS 3202,Analytical Decision Making,2,,ONLINE,OMBA,6-10,,course name corrected by Andy
+1,FALL 2020,,,EMBA 903,Analytics,6,,,EMBA,,"Tsay, A.",course name corrected by Andy
+1,FALL 2020,,,MSIS 2527/2627,Big Data Modeling & Analytics,4,TR,5:45pm-7:20pm,,,"Parsian,Mahmoud",
+2,WINTER 2021,,,MSIS 2627,Big Data Modeling & Analytics,4,TR,7:35pm-9:10pm,MS,,"Parsian,Mahmoud",
+3,SPRING 2021,,,MSIS 2627,Big Data Modeling & Analytics,4,MW,7:35pm-9:10pm,MS,,,
+1,FALL 2020,,,OMIS 3000,Business Analytics,4,TR,5:45pm-7:20pm,MBA,,,
+3,SPRING 2021,,,OMIS 3000,Business Analytics,4,TR,5:45pm-7:20pm,MBA,,,
+3,SPRING 2021,,,OMIS 3000,Business Analytics,4,MW,5:45pm-7:20pm,MBA,,,
+3,SPRING 2021,,,OMIS 3000,Business Analytics,4,TR,7:35pm-9:10pm,MBA,,,
+1,FALL 2020,,,OMIS 3000,Business Analytics,4,,ONLINE,OMBA,,,
+1,FALL 2020,,,OMIS 3000,Business Analytics,4,,ONLINE,OMBA,,,
+3,SPRING 2021,,,OMIS 3000,Business Analytics,4,,ONLINE,OMBA,,,
+3,SPRING 2021,,,OMIS 3000,Business Analytics,4,,ONLINE,OMBA,,,
+3,SPRING 2021,,,MSIS 2621,Business Intelligence,4,TR,7:35pm-9:10pm,MS,,,
+1,FALL 2020,,,MSIS 2621,Business Intelligence & Data Warehousing,4,TR,5:45pm-7:20pm,,,,Not  being introduced for a while. Is it because of student interest?
+4,SUMMER 2021,,,OMIS 3052,CHALLENGES IN,2,SAT,TBD,MBA,,"Kiran, Shashi",
+2,WINTER 2021,,,MSIS 2628,Cloud Computing,2,SAT,8:30 AM,MS,,,
+4,SUMMER 2021,,,MSIS 2628,Cloud Computing,2,MW,5:45pm-7:20pm,MS,6-10,,
+3,SPRING 2021,,,MSIS 2638,Cloud Computing Architectures,4,TR,5:45pm-7:20pm,MS,,,
+2,WINTER 2021,,,MSIS 2629,Dashboards,2,TR,5:45pm-7:20pm,MS,6-10,,
+3,SPRING 2021,,,MSIS 2629,Dashboards,2,SAT,,MS,,,
+1,FALL 2020,,,MSIS 2507/IDIS 3802,Data Analytics w/ Python,4,TR,5:45pm-7:20pm,MBA/MS,,,
+1,FALL 2020,,,MSIS 2607,Data Analytics w/ Python,4,MW,5:45pm-7:20pm,MS,,,Is the course number correct? Are we supposed to offered 3 sections
+2,WINTER 2021,,,MSIS 2407/2507/2607/IDIS 3802,Data Analytics w/ Python,4,MW,5:45pm-7:20pm,MBA/MS,,,
+1,FALL 2020,,,MSIS 2507/IDIS 3802,Data Analytics w/ Python,4,TR,7:35pm-9:10pm,MBA/MS,,,
+1,FALL 2020,,,MSIS 2613/2523/2423,"Database Mgmt Systems: Analysis, Design,",2,TR,7:35pm-9:10pm,6-10,,,
+3,SPRING 2021,,,MSIS 2613/OMIS 3366,"Database Mgmt Systems: Analysis, Design,",2,MW,7:35pm-9:10pm,MBA/MS,6-10,,
+1,FALL 2020,,,MSIS 2603/2403,Database Mgmt Systems: Fund.,2,TR,7:35pm-9:10pm,MSIS,1-5,,
+3,SPRING 2021,,,MSIS 2603,Database Mgmt Systems: Fund.,2,MW,7:35pm-9:10pm,MS,1-5,,
+1,FALL 2020,,,MSIS 2503,Database Mgmt Systems: Fund.,2,TBD,AFTERNOON,MS,Pre-Fall,BOOTCAMP,"Starts before Fall quarter, in early September"
+1,FALL 2020,,,MSIS 2503,Database Mgmt Systems: Fund.,2,TBD,EVENING,MS,Pre-Fall,BOOTCAMP,"Starts before Fall quarter, in early September"
+3,SPRING 2021,,,MSIS 26XX,Deep Learning,2,MW,5:45pm-7:20pm,MS,1-5,,
+1,FALL 2020,,,MSIS 2533/2633,Deep Learning,2,MW,7:35pm-9:10pm,6-10,,"Varma, Subir",
+1,FALL 2020,,,MSIS XXXX/OMIS 2392,Econometrics w/ R,4,MW,5:45pm-7:20pm,MS,,,Are they supposed to be two 2-unit course and one of them belong to Econmics department?
+1,FALL 2020,,,MSIS XXXX/OMIS 2392,Econometrics w/ R,4,MW,7:35pm-9:10pm,MS,,,Dan has not talked to me about this?
+1,FALL 2020,,,OMIS 3250,Enterprise Platforms,2,TR,7:35pm-9:10pm,MBA,6-10,,
+1,FALL 2020,,,OMIS 3250,Enterprise Platforms,2,,ONLINE,OMBA,6-10,,
+1,FALL 2020,,,OMIS 3250,Enterprise Platforms,2,,ONLINE,OMBA,6-10,,
+2,WINTER 2021,,,OMIS 3250,Enterprise Platforms,2,,ONLINE,OMBA,1-5,,
+3,SPRING 2021,,,OMIS 3250,Enterprise Platforms,2,,ONLINE,OMBA,,,
+3,SPRING 2021,,,OMIS 3250,Enterprise Platforms,2,,ONLINE,OMBA,,,
+2,WINTER 2021,,,MSIS 2622,ERP Systems,4,MW,5:45pm-7:20pm,MS,,,
+,SPRING 2021,,,,Global Supply Chain,,,,,,Additional after original ask,
+3,SPRING 2021,,,MSIS 2602,Information Systems Analysis & Design,4,TR,5:45pm-7:20pm,MS,,,
+1,FALL 2020,,,MSIS 2604/OMIS 3372,Information Systems Analysis & Design,4,MW,7:35pm-9:10pm,MBA/MS,,,
+2,WINTER 2021,,,MSIS 2602/OMIS 3372,Information Systems Analysis & Design,4,TR,7:35pm-9:10pm,MS,,,
+2,WINTER 2021,,,MSIS 2604,Information Systems Strategy & Mgmt,4,MW,7:35pm-9:10pm,MS,,,
+2,WINTER 2021,,,MSIS 2508/2631,Machine Learning,4,MW,5:45pm-7:20pm,MS,,,
+3,SPRING 2021,,,OMIS XXXX/MSIS 2631,Machine Learning,4,MW,5:45pm-7:20pm,MBA/MS,,,
+2,WINTER 2021,,,MSIS 2508/2631,Machine Learning,4,MW,7:35pm-9:10pm,MS,,,
+3,SPRING 2021,,,EMBA 910,"Managing Operations, Technologies, and Supply Chains",6,,,EMBA,,"Agrawal, N.",
+1,FALL 2020,,,MSIS 2502/2402,Math for Finance & Analytics*,4,MW,5:45pm-7:20pm,MS,,,
+1,FALL 2020,,,MSIS 2502,Math for Finance & Analytics*,4,MW,7:35pm-9:10pm,MS,,,Belongs to ISA department
+1,FALL 2020,,,MSIS 2534/MSIS 2634,Natural Language Processing,2,MW,5:45pm - 7:20pm,,Weeks 1-5,"Das, Sanjiv (FNCE)",Are the two sections in different weeks?
+1,FALL 2020,,,MSIS 2534/MSIS 2634,Natural Language Processing,2,MW,5:45pm - 7:20pm,,Weeks 6-10,"Das, Sanjiv (FNCE)",
+3,SPRING 2021,,,MSIS 2534/MSIS 2634,Natural Language Processing,2,MW,5:45pm - 7:20pm,MS,6-10,"Das, Sanjiv (FNCE)",
+3,SPRING 2021,,,MSIS 2534/MSIS 2634,Natural Language Processing,2,MW,5:45pm - 7:20pm,MS,6-10,"Das, Sanjiv (FNCE)",
+3,SPRING 2021,,,OMIS 3390/2390,New Product Development,4,TR,7:35pm-9:10pm,MBA/MS,,,Are the two sections offered at the same time slot?
+2,WINTER 2021,,,MSIS 2601,Object-Oriented,4,TR,5:45pm-7:20pm,MS,,,talk to instructor
+3,SPRING 2021,,,MSIS 2601,Object-Oriented,4,MW,5:45pm-7:20pm,MS,,,
+4,SUMMER 2021,,,OMIS 3252,Operations Management,2,TR,5:45pm-7:20pm,MBA,1-5,,
+2,WINTER 2021,,,OMIS 3252,Operations Management,2,TR,7:35pm-9:10pm,MBA,6-10,,
+3,SPRING 2021,,,OMIS 3252,Operations Management,2,TR,7:35pm-9:10pm,MBA,,,
+4,SUMMER 2021,,,OMIS 3252,Operations Management,2,TR,7:35pm-9:10pm,MBA,1-5,,
+4,SUMMER 2021,,,OMIS 3252,Operations Management,2,MW,7:35pm-9:10pm,MBA,1-5,,
+2,WINTER 2021,,,OMIS 3252,Operations Management,2,,ONLINE,OMBA,6-10,,
+2,WINTER 2021,,,OMIS 3252,Operations Management,2,,ONLINE,OMBA,6-10,,
+4,SUMMER 2021,,,OMIS 3252,Operations Management,2,,ONLINE,OMBA,6-10,,
+4,SUMMER 2021,,,OMIS 3252,Operations Management,2,,ONLINE,OMBA,6-10,,
+4,SUMMER 2021,,,MSIS 2540,Practicum,1,TBD,TBD,MS,,,
+2,WINTER 2021,,,MSIS 2540,Practicum,1,TBD,,MS,,,
+3,SPRING 2021,,,MSIS 2542,Practicum,2,,,MS,,,
+2,WINTER 2021,,,IDIS 3802,Python - ONLINE,4,,ONLINE,OMBA,,"Lu, Haibing",
+4,SUMMER 2021,,,IDIS 3802,Python - ONLINE,4,,ONLINE,OMBA,,"Lu, Haibing",
+1,FALL 2020,,,OMIS 3200,Quantitative Methods,2,TR,5:45pm-7:20pm,MBA,6-10,,spelling of course title corrected by Andy
+1,FALL 2020,,,OMIS 3200,Quantitative Methods,2,TR,7:35pm-9:10pm,MBA,6-10,,spelling of course title corrected by Andy
+1,FALL 2020,,,OMIS 3200,Quantitative Methods,2,MW,7:35pm-9:10pm,MBA,6-10,,spelling of course title corrected by Andy
+3,SPRING 2021,,,OMIS 3200,Quantitative Methods,2,MW,7:35pm-9:10pm,MBA,6-10,,spelling of course title corrected by Andy
+4,SUMMER 2021,,,OMIS 3200,Quantitative Methods,2,MW,7:35pm-9:10pm,MBA,6-10,,spelling of course title corrected by Andy
+1,FALL 2020,,,OMIS 3200,Quantitative Methods,2,,ONLINE,OMBA,6-10,,spelling of course title corrected by Andy
+2,WINTER 2021,,,OMIS 3200,Quantitative Methods,2,,ONLINE,OMBA,6-10,,spelling of course title corrected by Andy
+3,SPRING 2021,,,OMIS 3200,Quantitative Methods,2,,ONLINE,OMBA,,,spelling of course title corrected by Andy
+4,SUMMER 2021,,,OMIS 3200,Quantitative Methods,2,,ONLINE,OMBA,6-10,,spelling of course title corrected by Andy
+1,FALL 2020,,,OMIS XXXX/MSIS 2406/MSIS 2632,R Programming,2,R,5:45pm-7:20pm,MBA/MS,1-10,,
+3,SPRING 2021,,,MSIS 2632,R Programming,2,Tuesday,7:35pm-9:10pm,MS,1-10,,
+4,SUMMER 2021,,,MSIS 26XX,Reinforcement Learning,2,MW,5:45pm-7:20pm,MS,1-5,,
+1,FALL 2020,,,MSIS 2606,Software Project Management,4,MW,4:00 PM,,,,Open to moving this per RF
+4,SUMMER 2021,,,MSIS 2606,Software Project Management,4,MW,7:35pm-9:10pm,MS,,,
+2,WINTER 2021,,,OMIS,Supply Chain Analytics,,,,,,"Agrawal, N.  (Additional after orginal ask)",
+4,SUMMER 2021,,,OMIS 3384,Supply Chain Management,4,TR,7:35pm-9:10pm,MBA/MS,,,"Are they two different sections? If yes, can we offer them at different times?"
+4,SUMMER 2021,,,OMIS 3384,Supply Chain Management,4,TR,7:35pm-9:10pm,MS,,,
+,SUMMER 2021,,,OMIS 3384,Supply Chain Management,4,TR,7:35pm-9:10pm,MS,,move to another quarter or cancel,
+,FALL 2020,,,OMIS,Supply Chain Management,,,,,,"Bala, R.  (Addition after original ask)",
